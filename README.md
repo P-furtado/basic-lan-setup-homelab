@@ -1,35 +1,13 @@
 ## 1. basic-lan-setup-homelab
 
-```
-basic-lan-setup-homelab/
-├── README.md
-├── LAB_GUIDE.md
-```
-
-**README.md**
-
-```markdown
-# Basic LAN Setup Homelab
-
-This lab demonstrates how to configure a basic LAN in a homelab environment.
-
-## Contents
-- LAB_GUIDE.md: Step-by-step lab instructions
-
 ## Objectives
-- Configure LAN devices
-- Verify connectivity
-```
+- To simulate a small office network with three wired computers, one printer, and a
+ wireless laptop, all connected to the same LAN. The router will provide DHCP to all
+ devices, and you will test connectivity between them.
 
-**LAB\_GUIDE.md**
-
-```markdown
-# Basic LAN Setup Homelab Guide
-
-## Steps
-1. Connect switches and end devices.
-2. Assign IP addresses to hosts.
-3. Verify connectivity with `ping`.
-```
-
----
+## Software Requirements
+- Cisco Packet Tracer
+   ## Lab Setup
+  <p align="center">
+  <img src="https://i.postimg.cc/m2th7HD8/Basiclansetup.png" alt="Basic LAN Setup Topology"/>
+</p>
