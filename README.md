@@ -3,6 +3,7 @@
 [Download Part 2: Basic VLAN Setup with DHCP](PacketTracerFiles/NETWORKING%20Basic%20VLAN%20Setup%20w%20DHCP.pkt)
 
 
+
 ## Objectives
 - To simulate a small office network with three wired computers, one printer, and a
  wireless laptop, all connected to the same LAN. The router will provide DHCP to all
